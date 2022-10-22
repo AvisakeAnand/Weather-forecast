@@ -191,7 +191,7 @@ let lat_pv=document.createElement("p");
  div_lon.append(lon_p,lon_pv);
  let water_mark=document.createElement("p");
  water_mark.setAttribute("id","mark");
- water_mark.innerText=`Developed by 💕 Rohit`;
+ water_mark.innerText=`Developed by Avisake`;
 
  document.querySelector(".popltn").classList.add("visible")
 
@@ -598,7 +598,7 @@ let lat_pv=document.createElement("p");
  div_lon.append(lon_p,lon_pv);
  let water_mark=document.createElement("p");
  water_mark.setAttribute("id","mark");
- water_mark.innerText=`Developed by Avisake`;
+ water_mark.innerText=`Developed by 💕 Rohit`;
 
  document.querySelector(".popltn").classList.add("visible")
 
